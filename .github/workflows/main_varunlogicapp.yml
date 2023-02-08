@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'VarunLogicApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7588F1511F6F4837A8C402E00707F859 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DBCB0C4648A54AA5B6343A779C35FCE5 }}
